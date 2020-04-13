@@ -2,6 +2,9 @@
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
 
+**Note: This README.md-file was borrows from the udacity/deep-reinforcement-learning repository  
+(https://github.com/udacity/deep-reinforcement-learning.git)**.
+
 # Project 1: Navigation
 
 ### Introduction
